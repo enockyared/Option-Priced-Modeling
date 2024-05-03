@@ -1,0 +1,100 @@
+Option 1:
+Stock Price: 61.5054566389779
+Strike Price: 87.3940022117207
+Time to Expiration: 1.7129843807152367 years
+Risk-Free Rate: 0.010205181962578278
+Volatility: 0.3859120662960225
+Black-Scholes Price: 5.5027981355068505
+Binomial Tree Price: 11.993792175870148
+Monte Carlo Price: 5.015912925108119 (based on 1000 simulations)
+------------------------
+Option 2:
+Stock Price: 110.90665392794814
+Strike Price: 136.24565423543999
+Time to Expiration: 1.9457836737272372 years
+Risk-Free Rate: 0.03172810061121624
+Volatility: 0.22358589501590764
+Black-Scholes Price: 7.7530277952692686
+Binomial Tree Price: 6.721768239961749
+Monte Carlo Price: 7.144069661972725 (based on 1000 simulations)
+------------------------
+Option 3:
+Stock Price: 63.33909641859883
+Strike Price: 70.53053510318551
+Time to Expiration: 0.8322161373507624 years
+Risk-Free Rate: 0.029023854680290125
+Volatility: 0.3595051361821545
+Black-Scholes Price: 6.128892620578352
+Binomial Tree Price: 8.077421637737421
+Monte Carlo Price: 5.6142684382017585 (based on 1000 simulations)
+------------------------
+Option 4:
+Stock Price: 74.05896199653488
+Strike Price: 46.82619239813822
+Time to Expiration: 1.913527437706464 years
+Risk-Free Rate: 0.03545494710286091
+Volatility: 0.3016531838428529
+Black-Scholes Price: 31.460748214310158
+Binomial Tree Price: 34.17710809251412
+Monte Carlo Price: 29.965352536615512 (based on 1000 simulations)
+------------------------
+Option 5:
+Stock Price: 82.71390558111398
+Strike Price: 143.99783690790403
+Time to Expiration: 0.9469408855954657 years
+Risk-Free Rate: 0.04912816536328025
+Volatility: 0.28863573876464843
+Black-Scholes Price: 0.4155972235555767
+Binomial Tree Price: 0.3552259898037407
+Monte Carlo Price: 0.3240502357443903 (based on 1000 simulations)
+------------------------
+Option 6:
+Stock Price: 135.91374909485978
+Strike Price: 66.52347950612456
+Time to Expiration: 1.3724768382714347 years
+Risk-Free Rate: 0.046346510313243515
+Volatility: 0.18266763299468564
+Black-Scholes Price: 73.49068425926686
+Binomial Tree Price: 62.86211064507579
+Monte Carlo Price: 72.10713733490276 (based on 1000 simulations)
+------------------------
+Option 7:
+Stock Price: 116.60902130980257
+Strike Price: 88.59873376567117
+Time to Expiration: 0.2567500944245953 years
+Risk-Free Rate: 0.04640612303120627
+Volatility: 0.36902418092225886
+Black-Scholes Price: 29.571547359172143
+Binomial Tree Price: 30.81380549088186
+Monte Carlo Price: 28.55487090959116 (based on 1000 simulations)
+------------------------
+Option 8:
+Stock Price: 104.11622122834038
+Strike Price: 77.93157652218505
+Time to Expiration: 1.8044873019649152 years
+Risk-Free Rate: 0.031010226844285817
+Volatility: 0.16206741140300956
+Black-Scholes Price: 30.88007490050005
+Binomial Tree Price: 24.773857614629637
+Monte Carlo Price: 29.814550420990468 (based on 1000 simulations)
+------------------------
+Option 9:
+Stock Price: 52.90138244243604
+Strike Price: 49.19952399957367
+Time to Expiration: 0.6662066513086491 years
+Risk-Free Rate: 0.014160757994190516
+Volatility: 0.2213215729226223
+Black-Scholes Price: 6.108383189108398
+Binomial Tree Price: 6.628265386763927
+Monte Carlo Price: 5.725540891560858 (based on 1000 simulations)
+------------------------
+Option 10:
+Stock Price: 123.3748296280283
+Strike Price: 141.18696330756455
+Time to Expiration: 0.5983791629331248 years
+Risk-Free Rate: 0.01723658381031604
+Volatility: 0.39807174771823106
+Black-Scholes Price: 9.202508584261757
+Binomial Tree Price: 13.466438530353674
+Monte Carlo Price: 8.47370614240016 (based on 1000 simulations)
+------------------------
